@@ -13,8 +13,8 @@ __ThingerESP8266__
 ____________________________________________________________________________
 ## Setup and Debugging options
 Change lines 14-18 according to your AP (Wifi) and make sure pins on the __ESP__ are the following on the board. \
-__FSR1 on D6 (GPIO12) \  
+__FSR1 on D6 (GPIO12)   
 FSR2 on D7 (GPIO13) \
-FSR3 on D8 (GPIO15)__  \
+FSR3 on D8 (GPIO15)__  
  
  Serial Interface is set to be on __115200__ so connect there when debugging 
