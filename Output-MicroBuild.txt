@@ -1,0 +1,5 @@
+﻿Compiling debug version of 'FSR' for 'NodeMCU 0.9 (ESP-12 Module)'
+Creating BIN file "C:\Users\Nayyar\AppData\Local\Temp\VMBuilds\FSR\esp8266_nodemcu\Debug/FSR.ino.bin" using "C:\Users\Nayyar\AppData\Local\Temp\VMBuilds\FSR\esp8266_nodemcu\Debug/FSR.ino.elf"
+Program size: 401,324 bytes (used 38% of a 1,044,464 byte maximum) (7.02 secs)
+Minimum Memory Usage: 29892 bytes (36% of a 81920 byte maximum)
+ 
